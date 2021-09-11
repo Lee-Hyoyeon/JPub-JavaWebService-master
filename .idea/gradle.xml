@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,6 +10,24 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/JPub-JavaWebService-master" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch02" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch03" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch03-web" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch04" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch05" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch06" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch06-mariadb" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch06-mybatis" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch06-querydsl" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch07" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch07/CustombootStarter" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch07/UseCustomStarter" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch08" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch09" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch10" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch11-a" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch11-b" />
+            <option value="$PROJECT_DIR$/JPub-JavaWebService-master/ch11-c" />
           </set>
         </option>
       </GradleProjectSettings>
